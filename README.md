@@ -19,6 +19,7 @@ Een eenvoudige Express REST API die de principes van de REST-architectuur verken
 
 ### 3. Enter the following commands in the terminal
 `npm init -y` (Initializes a npm project)
+
 `npm install express` (Installs the Express package in the project)
 
 ### 4. Start the server
