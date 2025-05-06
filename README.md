@@ -23,7 +23,7 @@ Een eenvoudige Express REST API die de principes van de REST-architectuur verken
 `npm install express` (Installs the Express package in the project)
 
 ### 4. Start the server
-Enter the command `node server.js` in the terminal.
+Enter the command `node server.js` in the terminal. You should see `Server running on port 8000` displayed in the terminal.
 
 ### 5. Test the api
 Use the Thunder Client extension in VS Code to test the different endpoints.
