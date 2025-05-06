@@ -14,3 +14,8 @@ Een eenvoudige Express REST API die de principes van de REST-architectuur verken
 ### 1.
 Download the project as a zip file
 ![fig1](https://github.com/mathismahaux/movies-express-rest-api/blob/main/images/fig1.png)
+
+### 2.
+Navigate to the project's folder and open it in a terminal 
+![fig2](https://github.com/mathismahaux/movies-express-rest-api/blob/main/images/fig2.png)
+
