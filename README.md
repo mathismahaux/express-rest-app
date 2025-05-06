@@ -17,3 +17,13 @@ Een eenvoudige Express REST API die de principes van de REST-architectuur verken
 ### 2. Navigate to the project's folder and open it in a terminal 
 ![fig2](https://github.com/mathismahaux/movies-express-rest-api/blob/main/images/fig2.png)
 
+### 3. Enter the following commands in the terminal
+`npm init -y` (Initializes a npm project)
+`npm install express` (Installs the Express package in the project)
+
+### 4. Start the server
+Enter the command `node server.js` in the terminal.
+
+### 5. Test the api
+Use the Thunder Client extension in VS Code to test the different endpoints.
+
